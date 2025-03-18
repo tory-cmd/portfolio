@@ -2,6 +2,7 @@
 
 ### Education
 - B.S. Cybersecurity | The University of North Georgia at Dahlonega  (_May 2026_)
+- C# Certification | Microsoft
 
 ### Relevant Coursework
 - CSCI 1301(Python) 
@@ -14,6 +15,8 @@
 - CSCI 3100 (Comp. Organization)
 - CYBR 3410 (Database Security) 
 - CYBR 3510 (Data Networks)
+
+### Projects
 
 
 
