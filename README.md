@@ -1,13 +1,21 @@
 # Cybersecurity Major
 
 ### Education
-B.S. Cybersecurity        May 2026
+- B.S. Cybersecurity | The University of North Georgia at Dahlonega  (_May 2026_)
 
-### Work Experience
-Vans Sales Associate, Dawsonville, GA  December 2023 - Present
-Deliver exceptional customer service by engaging with shoppers, understanding their needs, and providing expert product recommendations.
-Maintain store presentation and organization by restocking merchandise, assisting with displays, and ensuring a clean and welcoming shopping environment.
-Drive sales and brand loyalty by promoting Vans products, sharing knowledge about styles and features, and assisting customers in finding the perfect fit.
+### Relevant Coursework
+- CSCI 1301(Python) 
+- CSCI 1302 (Java)
+- CSCI 1411 (Script Python) 
+- CYBR 2050 (Applied Cybersecurity)
+- CSCI 3000 (Web Programming) 
+- CSCI 3250 (Computer Security)
+- CSCI 3350 (Comp. Forensics) 
+- CSCI 3100 (Comp. Organization)
+- CYBR 3410 (Database Security) 
+- CYBR 3510 (Data Networks)
+
+
 
 
 
