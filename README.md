@@ -18,7 +18,7 @@
 
 # Projects
 ### C# 
-[https://gist.github.com/tory-cmd/95e92dc4d3f1d32476cff131de991f50](url)
+[Current Grade Calculator](https://gist.github.com/tory-cmd/95e92dc4d3f1d32476cff131de991f50)
 
 
 
