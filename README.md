@@ -19,6 +19,7 @@
 # Projects
 ### C# 
 [Current Grade Calculator](https://gist.github.com/tory-cmd/95e92dc4d3f1d32476cff131de991f50)
+[GPA Calculator](https://gist.github.com/tory-cmd/96fc1218f241e127fb13d4f0c79e34c6)
 
 
 
