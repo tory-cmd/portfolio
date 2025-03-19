@@ -18,7 +18,7 @@
 
 # Projects
 ### C# 
-[https://github.com/tory-cmd/current-grade](url)
+[https://gist.github.com/tory-cmd/95e92dc4d3f1d32476cff131de991f50](url)
 
 
 
