@@ -17,7 +17,7 @@
 - CYBR 3510 (Data Networks)
 
 # Projects
-### C Sharp 
+### C# 
 [https://github.com/tory-cmd/current-grade](url)
 
 
