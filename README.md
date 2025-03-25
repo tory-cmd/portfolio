@@ -22,6 +22,8 @@
 
 [GPA Calculator](https://gist.github.com/tory-cmd/96fc1218f241e127fb13d4f0c79e34c6)
 
+[Dice Game (Use of If/Else)](https://gist.github.com/tory-cmd/a6e542e3e50ef51c13287c2cb52ec2de)
+
 
 
 
