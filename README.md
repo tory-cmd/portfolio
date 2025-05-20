@@ -1,4 +1,4 @@
-# Cybersecurity Major
+# Cybersecurity Major and a Minor in Computer Science
 
 ### Education
 - B.S. Cybersecurity / Minor in Computer Science | The University of North Georgia at Dahlonega  (_May 2026_)
