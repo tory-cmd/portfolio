@@ -2,7 +2,7 @@
 
 ### Education
 - B.S. Cybersecurity | The University of North Georgia at Dahlonega  (_May 2026_)
-- C# Certification | Microsoft
+
 
 ### Relevant Coursework
 - CSCI 1301(Python) 
@@ -24,7 +24,7 @@
 
 [Dice Game (Use of If/Else)](https://gist.github.com/tory-cmd/a6e542e3e50ef51c13287c2cb52ec2de)
 
-
+### Python
 
 
 
