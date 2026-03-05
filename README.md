@@ -21,8 +21,10 @@
 (www.28awesomebugs.org)
 
 ### Capstone Project
+(https://github.com/tory-cmd/AI_analyzer)
 
 ### App Development Project
+(https://github.com/Israel-Jauregui/RouletteApp)
 
 
 
