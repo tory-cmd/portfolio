@@ -23,7 +23,7 @@
 
 # Projects
 ### Web Development Project
-(www.28awesomebugs.org)
+(28awesomebugs.org)
 
 ### Capstone Project
 (https://github.com/tory-cmd/AI_analyzer)
