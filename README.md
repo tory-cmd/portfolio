@@ -17,14 +17,12 @@
 - CYBR 3510 (Data Networks)
 
 # Projects
-### C# 
-[Current Grade Calculator](https://gist.github.com/tory-cmd/95e92dc4d3f1d32476cff131de991f50)
+### Web Development Project
+(www.28awesomebugs.org)
 
-[GPA Calculator](https://gist.github.com/tory-cmd/96fc1218f241e127fb13d4f0c79e34c6)
+### Capstone Project
 
-[Dice Game (Use of If/Else)](https://gist.github.com/tory-cmd/a6e542e3e50ef51c13287c2cb52ec2de)
-
-### Python
+### App Development Project
 
 
 
